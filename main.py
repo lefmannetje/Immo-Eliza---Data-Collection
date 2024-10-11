@@ -1,4 +1,3 @@
-import requests
 import get_all_urls
 import scraper
 import listings
